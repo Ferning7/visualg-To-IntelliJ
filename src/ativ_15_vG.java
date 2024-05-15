@@ -11,5 +11,6 @@ public class ativ_15_vG {
         double logaritmo = log(num) / log(base);
         System.out.println("O logaritmo é: "+ logaritmo);
 
+
     }
 }
