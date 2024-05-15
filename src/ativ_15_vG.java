@@ -10,7 +10,7 @@ public class ativ_15_vG {
         int base = 2;
         double logaritmo = log(num) / log(base);
         System.out.println("O logaritmo é: "+ logaritmo);
-
+aaaaaaaaaaaaaaa
 
     }
 }
